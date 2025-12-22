@@ -6,7 +6,8 @@ This is the comprehensive index of all of my computer science projects, includin
 - Designs data structure for package hashing, address mapping and truck routing
 - Time simulated delivery log with simultaneous truck logging
 
-## TRAVEL AGENCY BACKEND - JAVA + SPRING 
-- Developed a multi-layer backend using controllers, services, and repositories.
-- Implemented complex entity relationships and validation logic.
-- Designed RESTful endpoints to support frontend integration.
+## Landon Hotel Fullstack - JAVA + SPRING - LINK: https://github.com/maddenhebert/spring-hotel-app 
+- Developed for a spring boot application, implementing multi-national support using resource bundles.
+- Implemented currency conversion and formatting logic for various regional support 
+- Containerized the stack using Docker and created a could ready image 
+
