@@ -1,5 +1,5 @@
 # projects-portfolio
-This is the comprehensive index of all of my computer science projects, including work with algorithms, backend development and software engineering practices. 
+The following is an index of all of my computer science projects, including work with algorithms, backend development and software engineering practices. 
 
 ## WGUPS ROUTING PROGRAM - PYTHON - LINK: https://github.com/maddenhebert/WGUPS
 - Implements greedy routing algorithm in O(n^2) time for efficient routing 
