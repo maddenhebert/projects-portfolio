@@ -1,9 +1,9 @@
 # Projects Portfolio
 The following is an index of all of my computer science projects, including work with algorithms, backend development and software engineering practices. 
 
-## WGUPS Routing Program - PYTHON
+## A* Package Delivery Program - PYTHON
 LINK: https://github.com/maddenhebert/WGUPS
-- Implements greedy routing algorithm in O(n^2) time for efficient routing 
+- Implements A* routing algorithm for efficient routing 
 - Designs data structure for package hashing, address mapping and truck routing
 - Time simulated delivery log with simultaneous truck logging
 
