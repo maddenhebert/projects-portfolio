@@ -1,11 +1,11 @@
 # Projects Portfolio
 The following is an index of all of my computer science projects, including work with algorithms, backend development and software engineering practices. 
 
-## A* Package Delivery Program - PYTHON
-LINK: https://github.com/maddenhebert/WGUPS
-- Implements A* routing algorithm for efficient routing 
-- Designs data structure for package hashing, address mapping and truck routing
-- Time simulated delivery log with simultaneous truck logging
+## Route Optimizer - PYTHON
+LINK: https://github.com/maddenhebert/Route-Optimizer
+- A-Star Algorithm with MST Heuristics
+- Real-World Network Integration
+- Route Visualization 
 
 ## Landon Hotel Fullstack - JAVA + SPRING
 LINK: https://github.com/maddenhebert/spring-hotel-app 
