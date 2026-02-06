@@ -3,15 +3,16 @@ The following is an index of all of my computer science projects, including work
 
 ## Route Optimizer - PYTHON
 LINK: https://github.com/maddenhebert/Route-Optimizer
-- A-Star Algorithm with MST Heuristics
-- Real-World Network Integration
-- Route Visualization 
+- A-Star routing Algorithm with MST Heuristics
+- Real-World Map Network Integration
+- Dynamic route visualization
+
 
 ## Landon Hotel Fullstack - JAVA + SPRING
 LINK: https://github.com/maddenhebert/spring-hotel-app 
 - Developed for a spring boot application, implementing multi-national support using resource bundles.
 - Implemented currency conversion and formatting logic for various regional support 
-- Containerized the stack using Docker and created a could ready image 
+- Containerized the stack using Docker and created a cloud ready image 
 
 ## Network Anomaly Detection ML Model - PYTHON
 LINK: https://github.com/maddenhebert/ML-Network-Anomaly-Detection
