@@ -1,12 +1,11 @@
 # Projects Portfolio
-The following is an index of all of my computer science projects, including work with algorithms, backend development and software engineering practices. 
+The following is an index of my computer science projects, including work with APIs, containerization, algorithms, backend development. 
 
-## Route Optimizer - PYTHON
+## Route Optimizer API - PYTHON
 LINK: https://github.com/maddenhebert/Route-Optimizer
-- A-Star routing Algorithm with MST Heuristics
-- Real-World Map Network Integration
-- Dynamic route visualization
-
+- Containerized FastAPI service 
+- Real-World Map and Network Integration with Visualization
+- Custom A-Star routing Algorithm with MST Heuristics
 
 ## Landon Hotel Fullstack - JAVA + SPRING
 LINK: https://github.com/maddenhebert/spring-hotel-app 
