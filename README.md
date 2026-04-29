@@ -13,8 +13,7 @@ LINK: https://github.com/maddenhebert/spring-hotel-app
 - Implemented currency conversion and formatting logic for various regional support 
 - Containerized the stack using Docker and created a cloud ready image 
 
-## Network Anomaly Detection ML Model - PYTHON
-LINK: https://github.com/maddenhebert/ML-Network-Anomaly-Detection
-- Implements a Random Forest classifier to detect network anomalies from traffic data.
-- Includes cross-validation, hyperparameter tuning via GridSearchCV, and evaluation using F1, precision, recall, and accuracy metrics.
-- Demonstrates practical application of machine learning for cybersecurity and network monitoring.
+## ELK Stack SIEM Lab - Github: maddenhebert/siem-elk-lab 
+- Built a virtual SIEM with Elasticsearch, Logstash, and Kibana (ELK Stack) on a multi-VM network
+- Integrated Windows telemetry using Sysmon to collect process creation, network connection, and authentication logs
+- Simulated attacker activity (Nmap scanning, PowerShell execution, logins) to generate security events 
